@@ -66,7 +66,7 @@
           muškarcima od navršene 30. godine koji nisu služili vojni rok ni sa ni
           bez oružja;
         </li>
-        <li>muškarcima i ženama koji su služili vojni rok sa oružjem.</li>
+        <li>muškarcimas i ženama koji su služili vojni rok sa oružjem.</li>
       </ul>
       <h2>Koliko može da traje vojna obuka u toku godine?</h2>
       <p>Obučavanje može da traje najduže</p>
